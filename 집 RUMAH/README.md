@@ -1,4 +1,14 @@
-### 🏘 Jenis Rumah
+### Kosakata
+| 한국어 Bahasa | 한국어 Bahasa  | 한국어 Bahasa  | 한국어 Bahasa  |
+|:---|:---|:---|:---|
+|||||
+| 부엌 Dapur | 문 Pintu | 마당 Halaman | |
+| 식탁 Meja Makan | 창문 Jendela | 창고 Gudang | |
+| 거실 Ruang Tengah | 침대 Kasur| 차고 Garasi | |
+| 침실 Kamar Tidur| 바닥 Lantai | 층 Tingkatan Lantai | |
+| 욕실 Kamar Mandi | 옷장 Lemari Pakaian| 쓰레기통 Tempat Sampah | |
+
+### 💡 Jenis Rumah
 Kebanyakan orang Korea tidak tinggal di rumah terpisah bergaya Amerika. Sebaliknya, mereka sering tinggal di blok apartemen, terutama di kota-kota besar Korea.
 
 -  기숙사 asrama
@@ -19,3 +29,4 @@ Kebanyakan orang Korea tidak tinggal di rumah terpisah bergaya Amerika. Sebalikn
 >Jika Anda ingin mengatakan “rumah saya”, maka alih-alih menggunakan 제 (je) atau 내 (nae) untuk “milik saya”, Anda dapat menggunakan 우리 >>>(uri). Anda dapat mengatakan “rumah saya” dalam bahasa Korea sebagai **우리 집** (uri jip).
 >
 >Biasanya, 우리 (uri) berarti “milik kami”, tetapi bisa juga berarti “milikku” ketika merujuk ke rumah Anda.
+
